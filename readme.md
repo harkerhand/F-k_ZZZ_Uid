@@ -11,9 +11,18 @@
 - 需要安装 `Python3.7.0`
 - 需要安装 `schedule`
 - 需要安装 `pyautogui`
+- 需要管理员权限运行脚本, `Win + X` 使用终端管理员, cd进入脚本目录
 
-## 命令
+## 相关命令
 
 ```shell
 pip install schedule pyautogui
+```
+
+```shell
+python getmouse.py
+```
+
+```shell
+python zzzuid.py
 ```
